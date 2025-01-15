@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, </h1>
+<h1 align="center">Hi I'm Nattawut WanPhen 👋, </h1>
 - 📫 How to reach me **wanphen.nw@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nattawut-wanphen-8690ab21a/](https://www.linkedin.com/in/nattawut-wanphen-8690ab21a/)
